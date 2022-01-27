@@ -1,0 +1,14 @@
+[
+    {
+        "langName": "Denmark",
+        "langId": "da",
+        "icon": "jp",
+        "lang": "Dk"
+    },
+    {
+        "langName": "English",
+        "langId": "en",
+        "icon": "us",
+        "lang": "En"
+    }
+]
