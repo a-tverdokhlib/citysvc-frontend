@@ -1,19 +1,23 @@
 const dev = {
     // API_ENDPOINT_URL: 'http://52.86.242.174:5000/v1'
-    API_ENDPOINT_URL: 'http://127.0.0.1:4000/v1'
+    API_ENDPOINT_URL: 'http://localhost:4000/v1'
+    // API_ENDPOINT_URL: 'http://test.leosunservices.com:4000/v1'
+    // API_ENDPOINT_URL: 'http://93.115.19.248:4000/v1'
 };
 
 const prod = {
 
     // API_ENDPOINT_URL: 'http://52.86.242.174:5000/v1'
-    API_ENDPOINT_URL: 'http://127.0.0.1:4000/v1'
-
+    API_ENDPOINT_URL: 'http://localhost:4000/v1'
+    // API_ENDPOINT_URL: 'http://test.leosunservices.com:4000/v1'
+    // API_ENDPOINT_URL: 'http://localhost:4000/v1'
 };
 
 const test = {
     // API_ENDPOINT_URL: 'http://52.86.242.174:5000/v1'
-    API_ENDPOINT_URL: 'http://127.0.0.1:4000/v1'
-
+    API_ENDPOINT_URL: 'http://localhost:4000/v1'
+    // API_ENDPOINT_URL: 'http://test.leosunservices.com:4000/v1'
+    // API_ENDPOINT_URL: 'http://93.115.19.248:4000/v1'
 };
 
 const getEnv = () => {
